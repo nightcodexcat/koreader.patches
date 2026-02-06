@@ -7,11 +7,13 @@ Choose One:
 ### [2-sort-by-author-title-series.lua](https://github.com/nightcodexcat/koreader.patches/blob/34b7ab689bf3ad5769c10189664850de1973db01/2-sort-by-author-title-series.lua)
 
 **Uses Title Metadata to sort**
+
 Example: "The Everlasting"
 
 ### [2-sort-by-author-titlesort-series.lua](https://github.com/nightcodexcat/koreader.patches/blob/399157eae8b13b9c27133d9c79140f2931ed2401/2-sort-by-author-titlesort-series.lua)
 
 **Uses TitleSort Metadata to sort**
+
 Example: "Everlasting, The"
 
 Modified Patch: See Original [permalink](https://github.com/chiahsien/KOReader.Patches/tree/3ae7a8f53c41ec4e4ab322da06406ca2723e274d/2-sort-by-author-series)
