@@ -59,6 +59,8 @@ Behavior in the default File Browser is not guaranteed.
 
 
 ## Installation
+Download the desired lua patch file
+
 Place Patch files in:
 ```text
 koreader/patches/
