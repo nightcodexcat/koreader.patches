@@ -39,9 +39,9 @@ sort as:
 
 > **Warning:** Multi‑author books will cause KOReader to crash.
 
-These patches adds the following sort options:
+These patches add the following sort options:
 
-The alphabetical sorting mixes both standalone books and series books,
+The alphabetical sorting merges both standalone books and series books,
 rather than listing all series alphabetically first and all standalones afterward.
 
 * Author (First Last) – Alphabetical
