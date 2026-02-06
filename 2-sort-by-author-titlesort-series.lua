@@ -1,7 +1,7 @@
 -- 2-sort-by-author-titlesort-series.lua
 -- Custom sorting algorithms for KOReader file browser
 -- Alphabetical hybrid sort (series + standalone mixed)
--- Uses Calibre titlesort in place of title whenever possible.
+-- Uses Calibre title_sort when available.
 -- Place this file in koreader/patches/
 -- Not compatible with multi-author ebooks
 
